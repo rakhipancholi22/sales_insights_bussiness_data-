@@ -226,8 +226,7 @@ The dashboard enables AtliQ Hardware to make **data-driven decisions** across ma
 
 **[Rakhi Pancholi]**  
 
-
-[![LinkedIn](https://www.linkedin.com/in/rakhi-pancholi-636286229 )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rakhi-pancholi-636286229)
 
 
 
