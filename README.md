@@ -2,7 +2,7 @@
 
  **End-to-end sales analytics dashboard that uncovered ₹1.49 Cr profit improvement opportunity by analyzing 148K+ transactions**
 
-![Dashboard Preview] https://app.powerbi.com/groups/me/reports/b785362a-8982-4b10-852b-914ce694a086/ReportSection?experience=power-bi
+![Dashboard] https://app.powerbi.com/groups/me/reports/b785362a-8982-4b10-852b-914ce694a086/ReportSection?experience=power-bi
 
 ---
 
